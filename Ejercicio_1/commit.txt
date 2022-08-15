@@ -1,0 +1,11 @@
+commit 33990abd00c51a86dfc6df9a4bc7d3418d756bdf
+Author: Luisa <smss037022@ugb.edu.sv>
+Date:   Tue Aug 2 11:48:27 2022 -0600
+
+    Holamundoe2
+
+commit 75f0b0a9809ed1c332c6f6558c3a113257453e67
+Author: Luisa <smss037022@ugb.edu.sv>
+Date:   Tue Aug 2 11:36:58 2022 -0600
+
+    Ejercicio_1
