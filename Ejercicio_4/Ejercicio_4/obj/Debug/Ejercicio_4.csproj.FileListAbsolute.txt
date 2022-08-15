@@ -1,0 +1,7 @@
+C:\Users\MINEDUCYT\Desktop\C#\Ejercicio_4\Ejercicio_4\bin\Debug\Ejercicio_4.exe.config
+C:\Users\MINEDUCYT\Desktop\C#\Ejercicio_4\Ejercicio_4\bin\Debug\Ejercicio_4.exe
+C:\Users\MINEDUCYT\Desktop\C#\Ejercicio_4\Ejercicio_4\bin\Debug\Ejercicio_4.pdb
+C:\Users\MINEDUCYT\Desktop\C#\Ejercicio_4\Ejercicio_4\obj\Debug\Ejercicio_4.csproj.AssemblyReference.cache
+C:\Users\MINEDUCYT\Desktop\C#\Ejercicio_4\Ejercicio_4\obj\Debug\Ejercicio_4.csproj.CoreCompileInputs.cache
+C:\Users\MINEDUCYT\Desktop\C#\Ejercicio_4\Ejercicio_4\obj\Debug\Ejercicio_4.exe
+C:\Users\MINEDUCYT\Desktop\C#\Ejercicio_4\Ejercicio_4\obj\Debug\Ejercicio_4.pdb
